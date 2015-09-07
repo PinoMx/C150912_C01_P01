@@ -9,5 +9,5 @@
  * @author Javier
  */
 public class B2 {
-    
+    //Comentario
 }
